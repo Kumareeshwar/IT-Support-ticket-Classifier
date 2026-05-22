@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(pip install *)",
-      "Bash(venv/Scripts/python.exe -m spacy download en_core_web_lg)",
-      "Bash(gh auth *)"
-    ]
-  }
-}
