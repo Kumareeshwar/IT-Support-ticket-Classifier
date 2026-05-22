@@ -1,0 +1,8 @@
+streamlit 
+groq
+presidio-analyzer 
+presidio-anonymizer 
+pydantic 
+python-dotenv 
+spacy
+langgraph
